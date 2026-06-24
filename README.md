@@ -1,5 +1,5 @@
 # House Price Prediction using Machine Learning
-
+## XYlofy AI internship week 1 project
 ## Project Overview
 
 This project develops a machine learning model to predict house prices based on various property features. The workflow includes data preprocessing, feature engineering, model training, performance evaluation, and visualization. Two regression algorithms—Linear Regression and Random Forest Regression—are implemented and compared to determine the better-performing model.
